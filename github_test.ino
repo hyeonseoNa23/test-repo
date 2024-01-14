@@ -1,5 +1,6 @@
-hello world
-/*안녕 세계*/
+// hello world
+/*안녕
+  세계*/
 
 void setup() {
   pinMode(2,INPUT);
